@@ -4,6 +4,7 @@
 [![Render Deployment](https://img.shields.io/badge/Backend-Hosted%20on%20Render-46e3b7)](https://render.com)
 [![Vercel Deployment](https://img.shields.io/badge/Frontend-Hosted%20on%20Vercel-000000)](https://recipe-finder-three-nu.vercel.app/)
 
+"Forkast: Its a recipe finder"
 A modern web application that helps you discover delicious recipes through text search or ingredient photo recognition. Built with a React frontend and Node.js/Express backend.
 
 ![image](https://github.com/user-attachments/assets/854992a6-6401-464c-bfd3-bef3fd19ab8f)
