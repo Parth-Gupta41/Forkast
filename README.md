@@ -47,7 +47,7 @@ A modern web application that helps you discover delicious recipes through text 
 ## Installation 💻
 1. Clone the repository:
 ```bash
-git clone https://github.com/AyushNikhara/Recipe_Finder.git
+git clone https://github.com/Parth-Gupta41/Forkast.git
 ```
 Set up environment variables:
 Create .env file in backend directory:
