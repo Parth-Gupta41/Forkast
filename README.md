@@ -1,4 +1,4 @@
-# Recipe Finder 🍳
+# Forkast 🍳
 
 [![GitHub License](https://img.shields.io/github/license/AyushNikhara/Recipe_Finder)](https://github.com/AyushNikhara/Recipe_Finder/blob/main/LICENSE)
 [![Render Deployment](https://img.shields.io/badge/Backend-Hosted%20on%20Render-46e3b7)](https://render.com)
